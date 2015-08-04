@@ -1,0 +1,30 @@
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\bin\Debug\Example01.exe.config
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\obj\Debug\Example01.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\bin\Debug\Example01.exe
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\bin\Debug\Example01.pdb
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\obj\Debug\Example01.exe
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\obj\Debug\Example01.pdb
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example01\obj\Debug\Example01.Form1.resources
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\bin\Debug\Example01.exe.config
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\obj\Debug\Example01.exe
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\obj\Debug\Example01.pdb
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\bin\Debug\Example01.exe
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\bin\Debug\Example01.pdb
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\obj\Debug\Example01.Form1.resources
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\bin\Debug\ProductLibrary.dll
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example01\bin\Debug\ProductLibrary.pdb
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\bin\Debug\Example01.exe.config
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\obj\Debug\Example01.exe
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\obj\Debug\Example01.pdb
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\bin\Debug\Example01.exe
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\bin\Debug\Example01.pdb
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\bin\Debug\ProductLibrary.dll
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\bin\Debug\ProductLibrary.pdb
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\obj\Debug\Example01.Form1.resources
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\aju\Documents\GitHub\ACS254\[ACS254]2015-07-17作業(原價屋分類)\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
